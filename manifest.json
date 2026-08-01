@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Lines slide in from the left and fade up as they arrive, a third of a second apart.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
